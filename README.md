@@ -42,6 +42,8 @@ MarkDown1-5 - anonymized data related to promotional markdowns that Walmart is r
 CPI - the consumer price index  <br>
 Unemployment - the unemployment rate <br>
 IsHoliday - whether the week is a special holiday week  <br>
+
+
 For convenience, the four holidays fall within the following weeks in the dataset (not all holidays are in the data): 
 
 Super Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13   <br>
